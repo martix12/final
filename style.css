@@ -130,10 +130,49 @@ a.tg:hover {
 
 .end {
     color: white;
-    position: fixed;
+    position: bottom;
     bottom: 0;
     width:100%;
     text-align: center;
+}
+
+.albums {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.rls {
+    display: flex;
+    justify-content: center;
+    color: powderblue;
+}
+
+a.ay {
+    background-color:blueviolet;
+    box-shadow: none;
+    padding: 1px;
+    position: none;
+}
+
+.albums {
+    justify-content: center;
+    display: flex;
+    align-items: flex-start;
+}
+
+a.ayy {
+    background-color:blueviolet;
+    box-shadow: none;
+    padding: 1px;
+    position: none;
+}
+
+
+.start {
+    position: absolute;
+    bottom: 50px;
 }
 
 
