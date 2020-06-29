@@ -1,0 +1,139 @@
+.logo {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+a {
+    background-color: red;
+    box-shadow: 0 5px 0 darkred;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: darkred;
+}
+
+a:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+/* Non-Demo Styles */
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 15%;
+}
+
+.thug {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+a.tg {
+    background-color: orange;
+    box-shadow: 0 5px 0 orangered;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a.sc {
+    background-color: orange;
+    box-shadow: 0 5px 0 orangered;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a.sp {
+    background-color: lightgreen;
+    box-shadow: 0 5px 0 darkgreen;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.sp:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+a.sc:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+
+a.sp:hover {
+    background-color:darkgreen;
+}
+
+a.sc:hover {
+    background-color:orangered;
+}
+
+a.tr {
+    background-color: rgb(5, 192, 255);
+    box-shadow: 0 5px 0 rgb(41, 134, 136);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a.tr:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+a.tr:hover {
+    background-color: rgb(41, 134, 136);
+}
+
+
+a.tg:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+
+a.tg:hover {
+    background-color: orangered;
+}
+
+.end {
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+}
+
+
