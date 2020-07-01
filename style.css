@@ -241,6 +241,26 @@ a.ayy {
 
 }
 
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
 body {
     background-image: url("https://part.lt/img/4782699fa7d393e8539007b9f5092530553.png");
 
