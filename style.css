@@ -129,7 +129,7 @@ a.tg:hover {
 }
 
 .end {
-    color: white;
+    color: rgb(255, 136, 0);
     position: bottom;
     bottom: 0;
     width:100%;
@@ -143,10 +143,24 @@ a.tg:hover {
 }
 
 
+.ab {
+    display: flex;
+    justify-content: center;
+    color: white;
+    vertical-align: middle;
+}
+
+.nn {
+    font-size: large;
+    position: center;
+}
+
 .rls {
     display: flex;
     justify-content: center;
-    color: powderblue;
+    color: orangered;
+    font-size: 25px;
+
 }
 
 a.ay {
@@ -160,13 +174,15 @@ a.ay {
     justify-content: center;
     display: flex;
     align-items: flex-start;
+    height: 80vh;
 }
 
 a.ayy {
     background-color:blueviolet;
     box-shadow: none;
     padding: 1px;
-    position: none;
+    position: relative;
+    justify-content: flex-end;
 }
 
 
@@ -176,3 +192,19 @@ a.ayy {
 }
 
 
+.album {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 80vh;
+
+}
+
+body {
+    background-image: url("https://part.lt/img/4782699fa7d393e8539007b9f5092530553.png");
+}
+
+.fet {
+    color: white;
+    text-align: center;
+}
