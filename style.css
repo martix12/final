@@ -28,6 +28,18 @@ a:hover {
     background-color: darkred;
 }
 
+
+h2.loooky {
+	color:red;
+	font-family: Arial;
+}
+
+
+
+
+
+
+
 a:active {
     box-shadow: none;
     top: 5px;
