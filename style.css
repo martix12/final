@@ -65,11 +65,7 @@ a:active {
 
 
 
-.g-ytsubscribe {
 
-    padding: 1px 50px;
-
-}
 
 a.skeleton {
     padding: 0px;
@@ -294,21 +290,29 @@ a.flpadcss {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    display:inline-block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+
+
+
 
 
 
 
 }
-
-
-.flpad {
-    display:inline-block;
-    padding-left: 37%;
-    padding-top: 0%;
-
+.flpadcssimg {
+    justify-content: center;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
 
 }
+
+
 
 
 
