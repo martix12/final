@@ -432,5 +432,12 @@ a.tak:active {
 .custom {
     text-align: center;
     font-size: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.seni {
+    display: block;
+    margin: 0 auto;
+
+    
 }
