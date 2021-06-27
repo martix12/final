@@ -1,0 +1,443 @@
+
+
+.logo {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+a {
+    background-color: red;
+    box-shadow: 0 5px 0 darkred;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: darkred;
+}
+
+
+h2.loooky {
+	color:red;
+	font-family: Arial;
+}
+
+
+
+
+
+
+
+a:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+/* Non-Demo Styles */
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 8%;
+}
+
+.thug {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 67%;
+}
+
+.songs {
+    font-family: Arial, Helvetica, sans-serif;
+    color: cyan;
+    text-align: center;
+    font-size: small;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+a.skeleton {
+    padding: 0px;
+    background-color:inherit;
+    box-shadow: none;
+    color: cyan;
+}
+
+a.gamble {
+    padding: 0px;
+    background-color:inherit;
+    box-shadow: none;
+    color: cyan;
+}
+
+
+h2.loook {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+a.tg {
+    background-color: orange;
+    box-shadow: 0 5px 0 orangered;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+
+a.logolink {
+    padding: 0px;
+    background-color:inherit;
+    box-shadow: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.lds-dual-ring {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.lds-dual-ring:after {
+    content: " ";
+    display: block;
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    border-radius: 50%;
+    border: 6px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+    0% {
+    transform: rotate(0deg);
+    }
+    100% {
+    transform: rotate(360deg);
+    }
+}
+
+
+
+
+
+a.sc {
+    background-color: orange;
+    box-shadow: 0 5px 0 orangered;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a.sp {
+    background-color: lightgreen;
+    box-shadow: 0 5px 0 darkgreen;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.sp:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+a.sc:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+
+a.sp:hover {
+    background-color:darkgreen;
+}
+
+a.sc:hover {
+    background-color:orangered;
+}
+
+a.tr {
+    background-color: rgb(5, 192, 255);
+    box-shadow: 0 5px 0 rgb(41, 134, 136);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a.tr:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+a.tr:hover {
+    background-color: rgb(41, 134, 136);
+}
+
+
+a.tg:active {
+    box-shadow: none;
+    top: 5px;
+}
+
+
+a.tg:hover {
+    background-color: orangered;
+}
+
+.end {
+    color: rgb(255, 136, 0);
+    position: bottom;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+}
+
+.albums {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.ab {
+    display: flex;
+    justify-content: center;
+    color: white;
+    vertical-align: middle;
+    background-color: none;
+    box-shadow: none;
+    padding: none;
+    position: relative;
+    text-decoration: none;
+    text-transform: none; 
+
+}
+
+.nn {
+    font-size: large;
+    position: center;
+    text-align-last: center;
+}
+
+.rls {
+    display: flex;
+    justify-content: center;
+    color: orangered;
+    font-size: 25px;
+
+}
+
+a.ay {
+    background-color:blueviolet;
+    box-shadow: none;
+    padding: 1px;
+    position: none;
+}
+
+.albums {
+    justify-content: center;
+    display: flex;
+    align-items: flex-start;
+    height: 80vh;
+}
+
+a.flpadcss {
+    background-color:inherit;
+    box-shadow: none;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+
+
+
+
+
+
+
+}
+.flpadcssimg {
+    justify-content: center;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+
+a.ayy {
+    background-color:blueviolet;
+    box-shadow: none;
+    padding: 1px;
+    position: relative;
+    justify-content: flex-end;
+}
+
+
+.start {
+    position: absolute;
+    bottom: 50px;
+}
+
+
+.album {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 80vh;
+
+}
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-image: url("t.png");
+
+}
+/** code by webdevtrick ( https://webdevtrick.com ) **/
+::-webkit-scrollbar {
+    width: 5px;          
+}
+
+::-webkit-scrollbar-thumb {   
+    border-radius: 30px;
+    background: -webkit-gradient(linear,left top,left bottom,from(#ff8a00),to(#da1b60));
+    box-shadow: inset 2px 2px 2px rgba(255,255,255,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
+
+::-webkit-scrollbar-track {     
+    background-color: #fff;
+    background: linear-gradient(to right,#201c29,#201c29 1px,#100e17 1px,#100e17);
+}
+
+
+
+.fet {
+    color: white;
+    text-align: center;
+}
+
+.tak {
+    background-color: transparent;
+    box-shadow: none;
+    color: rgb(11, 241, 241);
+    padding: 0px;
+    position: relative;
+    text-decoration: underline;
+    text-transform: none; 
+
+}
+
+a.tak:hover{
+    background-color: transparent;
+}
+
+
+
+a.tak:active {
+    box-shadow: none;
+    top: none;
+}
+
+
+.eima {
+    text-align: center;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+}
+
+.custom {
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.seni {
+    display: block;
+    margin: 0 auto;
+
+    
+}

@@ -1,0 +1,123 @@
+body {
+    background: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+}
+
+.logo {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    max-width: 350px;
+}
+
+
+
+.undername {
+    text-align: center;
+}
+
+.yt {
+    height: auto;
+    display: block;
+    margin-left: -250%;
+    margin-right: auto;
+    margin-top: -80%;
+    max-width: 45px;
+}
+
+.spotify {
+    height: auto;
+    display: block;
+    margin-left: 250%;
+    margin-right: auto;
+    margin-top: auto;
+    max-width: 45px;
+}
+
+.instagram {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    max-width: 40px;
+}
+
+.inline-block {
+    max-width: 10%;
+    display: inline-block;
+}
+
+.linkz {
+    text-align: center;
+}
+
+.beatstorelink {
+    text-align: center;
+    margin-top: 1%;
+}
+
+a.button1{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid #FFFFFF;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+a.button1:hover{
+    color:#000000;
+    background-color:#FFFFFF;
+}
+
+
+
+.ofcrls {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    max-width: 400px;
+}
+
+
+
+
+.ofcrls2 {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    max-width: 500px;
+}
+
+.bbeats {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    max-width: 400px;
+}
+
+.vsts {
+    text-align: center;
+    font-size: large;
+    color: aliceblue;
+}
+
+
